@@ -1,0 +1,13 @@
+{
+  "prettier/prettier": [
+    "error",
+    {
+      "trailingComma": "all",
+      "singleQuote": true,
+      "endOfLine": "Off"
+    },
+    {
+      "usePrettierrc": false
+    }
+  ]
+}
